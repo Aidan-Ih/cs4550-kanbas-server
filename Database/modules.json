@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Welcome to Web Dev!",
+        "description": "Intro to the course",
+        "course": "Fall-23-1",
+        "_id": 1
+    },
+    {
+        "name": "Required Textbook",
+        "description": "You much purchase this textbook",
+        "course": "Fall-23-1",
+        "_id": 2
+    },
+    {
+        "name": "Week 1",
+        "description": "HTML and stuff",
+        "course": "Fall-23-1",
+        "_id": 3
+    },
+    {
+        "name": "Week 2",
+        "description": "CSS and more stuff",
+        "course": "Fall-23-1",
+        "_id": 4
+    },
+    {
+        "name": "Theory of Computation!",
+        "description": "Church, Turing, and friends",
+        "course": "Fall-23-2",
+        "_id": 5
+    },
+    {
+        "name": "DFAs",
+        "description": "wheeeeeeeeee",
+        "course": "Fall-23-2",
+        "_id": 6
+    },
+    {
+        "name": "Turing Machines",
+        "description": "brrrrrrrr",
+        "course": "Fall-23-2",
+        "_id": 7
+    },
+    {
+        "name": "Programming Languages",
+        "description": "Like javascript",
+        "course": "Fall-23-2",
+        "_id": 8
+    },
+    {
+        "name": "Python",
+        "description": "Fun times",
+        "course": "Fall-23-2",
+        "_id": 9
+    },
+    {
+        "name": "Racket",
+        "description": "Lambda did WHAT?",
+        "course": "Fall-23-2",
+        "_id": 10
+    },
+    {
+        "name": "Java",
+        "description": "Boring :rolling_eyes:",
+        "course": "Fall-23-2",
+        "_id": 11
+    }
+]

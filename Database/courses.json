@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "Fall-23-1",
+        "name": "Web Development",
+        "number": "cs4550", 
+        "startDate": "2023-09-01",
+        "endDate": "2023-12-15"
+    },
+    {
+        "_id": "Fall-23-2",
+        "name": "Theory of Computation",
+        "number": "cs3800", 
+        "startDate": "2023-09-01",
+        "endDate": "2023-12-15"
+    },
+    {
+        "_id": "Fall-23-3",
+        "name": "Programming Languages",
+        "number": "cs4400", 
+        "startDate": "2023-09-01",
+        "endDate": "2023-12-15"
+    }
+]

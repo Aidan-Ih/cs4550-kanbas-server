@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1-1",
+        "title": "A1 - HTML",
+        "desc": "Implement canvas in HTML",
+        "due": "2023-09-01",
+        "from": "2023-09-01",
+        "until": "2023-09-01",
+        "course": "Fall-23-1"
+    },
+    {
+        "id": "1-2",
+        "title": "A2 - CSS",
+        "desc": "Implement canvas in CSS",
+        "due": "2023-09-01",
+        "from": "2023-09-01",
+        "until": "2023-09-01",
+        "course": "Fall-23-1"
+    },
+    {
+        "id": "1-3",
+        "title": "A3 - React",
+        "desc": "Implement canvas in React",
+        "due": "2023-09-01",
+        "from": "2023-09-01",
+        "until": "2023-09-01",
+        "course": "Fall-23-1"
+    },
+    {
+        "id": "2-1",
+        "title": "Python Basics",
+        "desc": "Do some python",
+        "due": "2023-09-01",
+        "from": "2023-09-01",
+        "until": "2023-09-01",
+        "course": "Fall-23-2"
+    },
+    {
+        "id": "2-2",
+        "title": "Basic Interpreter",
+        "desc": "Interpret some python",
+        "due": "2023-09-01",
+        "from": "2023-09-01",
+        "until": "2023-09-01",
+        "course": "Fall-23-2"
+    },
+    {
+        "id": "2-3",
+        "title": "Add scope to interpreter",
+        "desc": "We got functions now",
+        "due": "2023-09-01",
+        "from": "2023-09-01",
+        "until": "2023-09-01",
+        "course": "Fall-23-2"
+    },
+    {
+        "id": "3-1",
+        "title": "Math",
+        "desc": "DFAs and NFAs",
+        "due": "2023-09-01",
+        "from": "2023-09-01",
+        "until": "2023-09-01",
+        "course": "Fall-23-3"
+    },
+    {
+        "id": "3-2",
+        "title": "More Math",
+        "desc": "Pumping Lemma and more!",
+        "due": "2023-09-01",
+        "from": "2023-09-01",
+        "until": "2023-09-01",
+        "course": "Fall-23-3"
+    },
+    {
+        "id": "3-3",
+        "title": "Even More Math",
+        "desc": "Prove languages are not decideable",
+        "due": "2023-09-01",
+        "from": "2023-09-01",
+        "until": "2023-09-01",
+        "course": "Fall-23-3"
+    }
+]
