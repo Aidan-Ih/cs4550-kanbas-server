@@ -16,7 +16,7 @@ app.use(
         credentials: true,
         origin: process.env.FRONTEND_URL
     })
-);
+); 
 const sessionOptions = {
     secret: "any string",
     resave: false,
