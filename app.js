@@ -8,7 +8,7 @@ import session from 'express-session';
 import "dotenv/config";
 const app = express();
 import mongoose from "mongoose";
-const CONNECTION_STRING = process.env.DB_CONNECTION_STRING
+const CONNECTION_STRING = process.env.DB_CONNECTION_STRING || 'mongodb://127.0.0.1:27017/kanbas'
 mongoose.connect(CONNECTION_STRING);
 import UserRoutes from "./users/routes.js";
 app.use(
@@ -16,7 +16,7 @@ app.use(
         credentials: true,
         origin: process.env.FRONTEND_URL
     })
-); 
+);
 const sessionOptions = {
     secret: "any string",
     resave: false,
